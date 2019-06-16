@@ -1,6 +1,4 @@
-Django     2.2.2
-pip        18.1
-pytz       2019.1
-setuptools 40.6.2
-sqlparse   0.3.0
-psycopg2   2.7.2
+Django==2.2.2
+pytz==2019.1
+sqlparse==0.3.0
+psycpg2==2.7.2
